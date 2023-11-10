@@ -155,7 +155,7 @@
 				<Samples>
 					<AxisFeedrate dataItemId="rovrd" timestamp="2023-01-11T18:33:36.909Z" sequence="2611" name="RapidOverride" subType="OVERRIDE">100</AxisFeedrate>
 					<AccumulatedTime dataItemId="lcycle" timestamp="2023-01-11T18:24:00.806Z" sequence="1988" name="LastCycle">205</AccumulatedTime>
-					<AccumulatedTime dataItemId="tcycle" timestamp="2023-01-15T18:23:47.802Z" sequence="1961" name="ThisCycle">225</AccumulatedTime>
+					<AccumulatedTime dataItemId="tcycle" timestamp="2023-01-16T18:23:47.802Z" sequence="1961" name="ThisCycle">230</AccumulatedTime>
 					<AccumulatedTime dataItemId="cyremtim" timestamp="2023-01-11T18:20:44.762Z" sequence="1266" name="CycleRemainingTime">0</AccumulatedTime>
 					<PathFeedrate dataItemId="fdovrd" timestamp="2023-01-11T18:33:35.909Z" sequence="2608" name="FeedrateOverride" subType="OVERRIDE">100</PathFeedrate>
 					<SpindleSpeed dataItemId="sspeed" timestamp="2023-01-11T18:23:53.803Z" sequence="1977" name="SpindleSpeed" subType="ACTUAL">0.0</SpindleSpeed>
